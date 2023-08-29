@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color:plum ;
+}
+
+h1{
+    background-color: plum;
+    border-style: solid;
+    border-radius: 20px;
+    width: fit-content;
+    margin: 20px auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0 25px;
+}
+
+button{
+    margin-right: 0px;
+    background-color:royalblue;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+button:hover{
+    background-color:red;
+    border-radius: 5px;
+    font-size: 25px; ;
+    padding: 0 30px;
+    font-family:cursive;
+}
